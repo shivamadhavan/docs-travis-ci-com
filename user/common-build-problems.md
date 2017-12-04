@@ -525,7 +525,7 @@ which Docker image you are using on Travis CI.
 
    - [Windows](https://docs.docker.com/docker-for-windows/)
    - [OS X](https://docs.docker.com/docker-for-mac/)
-   - [Ubuntu Linux](https://docs.docker.com/engine/installation/linux/ubuntulinux/)
+   - [Ubuntu Linux](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
 
 1. Choose a Docker image
   * Select an image [on Docker Hub](https://hub.docker.com/u/travisci/) for the language
